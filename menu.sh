@@ -2,11 +2,11 @@
 #Menu
 
 echo -e "* menu      : Displays a list of available commands"
-echo -e "* usernew   : Creating an SSH Account"
-echo -e "* trial     : Create a Trial Account"
-echo -e "* delete    : Clearing SSH and OpenVPN Account"
-echo -e "* check     : Check User Login"
-echo -e "* member    : Check Member SSH and OpenVPN"
+echo -e "* usernew   : สร้างUser"
+echo -e "* trial     : สร้างUserทดสอบ"
+echo -e "* delete    : ลบ User OpenVPN "
+echo -e "* check     : ตรวจสอบ User Login"
+echo -e "* member    : ตรวจสอบ Member SSH and OpenVPN"
 echo -e "* restart   : Restart Service dropbear, webmin"
 echo -e "              squid3, OpenVPN and SSH"
 echo -e "* reboot    : reboot VPS"

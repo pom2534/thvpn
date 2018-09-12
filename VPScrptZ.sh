@@ -212,8 +212,8 @@ service ssh restart
 service dropbear restart
 
 #xml parser
-cd
-apt-get -y --force-yes -f install libxml-parser-perl
+#cd
+#apt-get -y --force-yes -f install libxml-parser-perl
 
 # download script
 cd /usr/bin
